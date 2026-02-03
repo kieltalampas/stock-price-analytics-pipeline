@@ -4,7 +4,7 @@ An end-to-end data engineering project that ingests historical stock price data,
 
 ---
 
-## 🔍 Project Overview
+##  Project Overview
 
 This project demonstrates a real-world analytics pipeline:
 
@@ -17,13 +17,13 @@ This project demonstrates a real-world analytics pipeline:
 
 ---
 
-## 🏗️ End-to-End Architecture
+##  End-to-End Architecture
 
 ![End-to-End Architecture](diagrams/01_end_to_end_architecture.png)
 
 ---
 
-## 🧱 Medallion Architecture
+##  Medallion Architecture
 
 ### Bronze Layer
 - Raw batch ingestion of stock price data
@@ -55,7 +55,7 @@ This project demonstrates a real-world analytics pipeline:
 
 ---
 
-## 🔄 DLT Pipeline Graph
+##  DLT Pipeline Graph
 
 ![DLT Pipeline Graph](diagrams/02_dlt_pipeline_graph.png)
 
@@ -78,7 +78,7 @@ This structure supports efficient BI queries and filtering.
 
 ---
 
-## ❄️ Snowflake Schema
+##  Snowflake Schema
 
 ![Snowflake Schema](diagrams/03_snowflake_schema.png)
 
@@ -92,7 +92,7 @@ This structure supports efficient BI queries and filtering.
 
 ---
 
-## 📈 Power BI Dashboard
+##  Power BI Dashboard
 
 ![Power BI Dashboard](diagrams/04_powerbi_dashboard.png)
 
@@ -109,7 +109,7 @@ The dashboard includes:
 
 ---
 
-## ✅ Skills Demonstrated
+##  Skills Demonstrated
 
 - Databricks & PySpark
 - Delta Live Tables (DLT)
@@ -117,12 +117,12 @@ The dashboard includes:
 - Data Quality enforcement
 - Dimensional Modeling (Fact & Dimension)
 - Snowflake Data Warehousing
-- Power BI Dashboarding
+- Data Visualization
 - End-to-End Analytics Pipelines
 
 ---
 
-## 📌 Notes
+##  Notes
 
 - This project is intended for learning and portfolio demonstration
 - All datasets are publicly available
