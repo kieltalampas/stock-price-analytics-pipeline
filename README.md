@@ -128,4 +128,13 @@ The dashboard includes:
 - All datasets are publicly available
 - No sensitive or proprietary data is used
 
+---
+
+## Author
+
+**Kiel Talampas**
+- GitHub: [@kieltalampas](https://github.com/kieltalampas)
+
+
+
 
